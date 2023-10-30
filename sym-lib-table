@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Winbond-ExtendedFlashes")(type "KiCad")(uri "${KIPRJMOD}/Winbond-ExtendedFlashes.kicad_sym")(options "")(descr ""))
+  (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/SL2.1A.kicad_sym")(options "")(descr ""))
+)
