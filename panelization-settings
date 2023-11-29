@@ -1,0 +1,14 @@
+{
+    "layout": {
+        "vspace": "2mm",
+        "rows": "4"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "0.6mm",
+        "offset": "-0.25mm"
+    },
+    "framing": {
+        "type": "railstb"
+    }
+}
